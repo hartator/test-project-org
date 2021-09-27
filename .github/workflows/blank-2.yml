@@ -1,0 +1,6 @@
+name: require pull request #2
+
+on:
+  pull_request:
+    branches:
+      - main
