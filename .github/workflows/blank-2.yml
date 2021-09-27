@@ -1,4 +1,4 @@
-name: require pull request
+name: require pull request #2
 
 on:
   pull_request:
